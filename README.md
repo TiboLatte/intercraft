@@ -16,7 +16,7 @@ On the computer you'll need to copy/paste the interCraftSourceCode.txt into it.
 
 Then you launch the program with this syntax :
 ```lua
-[nameOfYourPastebinFile] destinationFile urlAddressOfYourServer
+[nameOfYourProgramFile] destinationFile urlAddressOfYourServer
 ```
 
 You can let the args empty and the destination file will be on default to "code" and the urlAddress to "localhost:3000", if you want to specify an address please make sure to write the address with "http://" in front of it. 
