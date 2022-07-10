@@ -6,7 +6,7 @@ Just clone the repo into a file on your machine or a server.
 
 
 ## Usage
-Just run 
+Just run in the directory where you cloned the repo
 ```bash
 node index.js
 ```
