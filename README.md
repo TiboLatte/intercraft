@@ -12,7 +12,7 @@ node index.js
 ```
 The code.lua file is where you'll write the code. You just need to save it when you want to send it.
 
-On the computer you'll need to download this file from [pastebin](https://pastebin.com/c0rnMntQ) just use the pastebin get command.
+On the computer you'll need to copy/paste the interCraftSourceCode.txt into it.
 
 Then you launch the program with this syntax :
 ```lua
